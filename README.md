@@ -1,3 +1,10 @@
+this fork is based on [eSir's playground version](https://github.com/esirplayground/AutoBuild-OpenWrt)
+I just edited the .config file and yml in workflow directory, hope that can give someone some help.
+
+for version 0.0.2
+- luci-diskman built-in
+- airplay 2 client built-in
+
 # AutoBuild-OpenWrt
 
 Build OpenWrt firware [Lean's OpenWrt](https://github.com/coolsnowwolf/lede) using GitHub Actions  
